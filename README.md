@@ -1,7 +1,7 @@
 # NoteO
 Note-Taking Software that prioritizes productivity and automates organization
 
-As someone who learns constantly and has ideas overflowing their brain, I have found modern note-taking softwares just aern't cutting it. Because of this, I decided to make my own. This will be done to aid my remaining two years of university. Designed and tailored to my math/physics notes, prioritizing features I love, and hopefully help organize my learning. 
+As someone who learns constantly and has ideas overflowing their brain, I have found modern note-taking softwares just aern't cutting it. Because of this, I decided to make my own. This will be done to aid my remaining two years of university. Designed and tailored to my math/physics notes, prioritizing features I love, and will hopefully help organize my learning. 
 
 # Goals and features
 ---Terminal
