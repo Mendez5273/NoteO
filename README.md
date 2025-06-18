@@ -20,7 +20,7 @@ I study physics in university, so I usually have to include math notation and gr
 
 ---Omni-Directional Cursor
 
-For the highest order of freedom, I have also implementad a cursor that can move freely with the arrow keys. Letters do not have to be present and there are no constraints or note-taking. The user can move the curser left, right, up, and down, as much they like without having to touch the mouse or trackpad. 
+For the highest order of freedom, I have also implementad a cursor that can move freely with the arrow keys. Letters do not have to be present and there are no constraints for note-taking. The user can move the curser left, right, up, and down, as much they like without having to touch the mouse or trackpad. 
 
 ---Useful Shortcuts
 
